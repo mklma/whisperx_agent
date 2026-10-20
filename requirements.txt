@@ -1,0 +1,5 @@
+# WhisperX subtitle agent
+# Python 3.11 recommended
+
+whisperx
+requests
